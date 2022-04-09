@@ -28,7 +28,7 @@
         "fs": "0.0.1-security",
         "is-base64": "^0.1.0",
         "jsonwebtoken": "^8.4.0",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "mongoose": "^5.4.11",
         "multer": "^1.4.1",
         "paystack": "^2.0.1"
